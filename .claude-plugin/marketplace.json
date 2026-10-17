@@ -1121,6 +1121,23 @@
       "homepage": "https://confidence.spotify.com"
     },
     {
+      "name": "construction-pm",
+      "description": "Create project estimates, change orders, progress reports, and RFI responses for construction project management",
+      "author": {
+        "name": "The AI Career Lab",
+        "email": "hello@theaicareerlab.com"
+      },
+      "category": "productivity",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/alexclowe/awesome-claude-cowork-plugins.git",
+        "path": "construction-pm",
+        "ref": "main",
+        "sha": "99f3455d59e5f3ce66cde3b193fac514e28399b8"
+      },
+      "homepage": "https://theaicareerlab.com/professions/construction-pm"
+    },
+    {
       "name": "context7",
       "description": "Upstash Context7 MCP server for up-to-date documentation lookup. Connects to Context7's hosted remote MCP server (https://mcp.context7.com/mcp) — no local Node.js or npx required — to pull version-specific documentation and code examples directly from source repositories into your LLM context. Works anonymously out of the box; set CONTEXT7_API_KEY for higher rate limits.",
       "author": {
